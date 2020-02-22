@@ -1,0 +1,3 @@
+# TMXC
+
+My tmux configuration.
